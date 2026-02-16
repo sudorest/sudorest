@@ -74,7 +74,7 @@
 
 <!-- Spotify Now Playing -->
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently%20Vibing%20To-ff69b4?style=for-the-badge&logo=apple-music&logoColor=white" />
 </h2>
 
 <div align="center">
@@ -105,23 +105,6 @@
   <img src="https://img.shields.io/badge/Status-Coding%20in%20Progress-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   
 </div>
-
-<!-- Currently Vibing To -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Currently%20Vibing%20To-ff69b4?style=for-the-badge&logo=apple-music&logoColor=white" />
-</h2>
-
-<div align="center">
-  
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31bjuvhb6sctv62xutjx4fwk3a3i)
-  [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com)
-  [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
-  
-  <p><i><img src="https://img.shields.io/badge/Lo--fi%20beats%20•%20Pop%20•%20K--Pop%20•%20Indie-ff69b4?style=flat-square&logo=music&logoColor=white" /></i></p>
-  
-</div>
-
-<br>
 
 <!--
 Thank you for visiting my profile!
