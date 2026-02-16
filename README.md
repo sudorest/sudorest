@@ -23,9 +23,6 @@
   <img src="https://img.shields.io/badge/About%20Me-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
 </h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py&theme=light" />
-  
   <br><br>
   
   <img src="https://img.shields.io/badge/Passionate%20Developer-ff69b4?style=flat-square&logo=codepen&logoColor=white" />
