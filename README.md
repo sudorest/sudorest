@@ -108,42 +108,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudorest&theme=react-dark&custom_title=My%20Contribution%20Graph&hide_border=true&area=true&cache_seconds=7200" width="95%" />
 </div>
 
-<!-- Trophies -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Trophies-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudorest&theme=dracula&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
-<!-- Connect Section -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Let's%20Connect-ff69b4?style=for-the-badge&logo=link&logoColor=white" />
-</h2>
-
-<div align="center">
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=b8e0f5" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=b8e0f5" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=f5b8b8" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF69B4&color=f5d4e5" />
-  </a>
-  <a href="https://discord.gg/YOUR_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=d4d4f5" />
-  </a>
-  
-</div>
-
-<br>
-
 <!-- Spotify Now Playing -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
