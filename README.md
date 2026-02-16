@@ -23,8 +23,7 @@
   <img src="https://img.shields.io/badge/About%20Me-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
 </h2>
 
-  <br><br>
-  
+<div align="center">
   <img src="https://img.shields.io/badge/Passionate%20Developer-ff69b4?style=flat-square&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/Lifelong%20Learner-9b59b6?style=flat-square&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Coffee%20Enthusiast-8B4513?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
@@ -93,14 +92,14 @@
 <!-- Footer -->
 <div align="center">
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,25,26,27,28,29,30&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=30&animation=twinkling" />
+  
   <p>
     <img src="https://img.shields.io/badge/Made%20with%20love-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
     <img src="https://img.shields.io/badge/and%20lots%20of%20coffee-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </p>
   
   <img src="https://img.shields.io/badge/Status-Coding%20in%20Progress-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,25,26,27,28,29,30&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=30&animation=twinkling" />
   
 </div>
 
