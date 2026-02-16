@@ -42,62 +42,26 @@
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,php&theme=light" />
 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=fff5b8" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&color=b8d4f0" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=b8e0f0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=f5b8b8" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=b8d4f5" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&color=d4b8f5" />
-</p>
 
 <!-- Frontend -->
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,styledcomponents&theme=light" />
 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=e0f5ff" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=e0e0e0" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D&color=d4f5e0" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC&color=d4f5f0" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=f5d4e5" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=DB7093&color=f5d4e0" />
-</p>
 
 <!-- Backend -->
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=light" />
 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=d4f5d4" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&color=e0e0e0" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20&color=d4e0d4" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688&color=d4f5f0" />
-</p>
 
 <!-- Database -->
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=light" />
 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B&color=d4f5d4" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192&color=b8d4f5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=b8d4f0" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D&color=f5d4d4" />
-</p>
 
 <!-- Tools -->
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode,vercel&theme=light" />
 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=f5d4d4" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=b8e0f5" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E&color=e0e0e0" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=f5d4d4" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=b8e0f5" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=e0e0e0" />
-</p>
 
 <!-- Activity Graph -->
 <h2 align="center">
@@ -132,10 +96,6 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,25,26,27,28,29,30&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=30&animation=twinkling" />
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  </p>
   
   <p>
     <img src="https://img.shields.io/badge/Made%20with%20love-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
