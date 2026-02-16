@@ -11,8 +11,9 @@
   
   <!-- Profile Views & Followers -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sudorest&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/sudorest?logo=github&style=flat-square&color=ff69b4&labelColor=ff1493" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=sudorest&label=Profile%20Views&color=ff69b4&style=flat-square&cache=3600" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/sudorest?logo=github&style=flat-square&color=ff69b4&labelColor=ff1493&cache=3600" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/sudorest?logo=github&style=flat-square&color=ff69b4&labelColor=ff1493&cache=3600" alt="GitHub Stars" />
   </p>
 
 </div>
