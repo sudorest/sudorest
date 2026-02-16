@@ -1,12 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=24,25,26,27,28,29,30&text=✨%20Welcome%20✨&fontColor=fff&fontSize=50&animation=fadeIn&stroke=ff69b4&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=24,25,26,27,28,29,30&text=Welcome&fontColor=fff&fontSize=50&animation=fadeIn&stroke=ff69b4&strokeWidth=2" />
   
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+there!+I'm+[Kiwi @ Sudorest ]%F0%9F%8C%B8;Full+Stack+Developer+%F0%9F%92%96;Creative+Thinker+%F0%9F%8C%B7;Problem+Solver+%F0%9F%8C%B9" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+there!+I'm+[Kiwi+@+Sudorest+];Full+Stack+Developer;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
   
   <!-- Decorative Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -21,29 +19,29 @@
 
 <!-- About Me Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-  About Me
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+  <img src="https://img.shields.io/badge/About%20Me-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
 </h2>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py&theme=light" />
   
-  🌸 I'm a passionate developer who loves creating beautiful and functional applications  
-  💜 I believe in the power of code to make the world a better place  
-  ✨ Always learning, always growing  
-  🎀 Coffee lover & Code enthusiast  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Passionate%20Developer-ff69b4?style=flat-square&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-9b59b6?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee%20Enthusiast-8B4513?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
   
 </div>
 
 <!-- Tech Stack Section -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" />
-  Tech Stack
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-ff69b4?style=for-the-badge&logo=stackshare&logoColor=white" />
 </h2>
 
 <!-- Languages -->
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,php&theme=light" />
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=fff5b8" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&color=b8d4f0" />
@@ -54,7 +52,9 @@
 </p>
 
 <!-- Frontend -->
-<h3 align="center">🎨 Frontend</h3>
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,styledcomponents&theme=light" />
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=e0f5ff" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=e0e0e0" />
@@ -65,7 +65,9 @@
 </p>
 
 <!-- Backend -->
-<h3 align="center">⚙️ Backend</h3>
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=light" />
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=d4f5d4" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&color=e0e0e0" />
@@ -74,7 +76,9 @@
 </p>
 
 <!-- Database -->
-<h3 align="center">🗄️ Database</h3>
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=light" />
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B&color=d4f5d4" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192&color=b8d4f5" />
@@ -83,7 +87,9 @@
 </p>
 
 <!-- Tools -->
-<h3 align="center">🛠️ Tools & Platforms</h3>
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode,vercel&theme=light" />
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=f5d4d4" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=b8e0f5" />
@@ -95,18 +101,16 @@
 
 <!-- GitHub Stats Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />
-  GitHub Stats
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
 </h2>
 
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sudorest&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4&border_radius=20" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudorest&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4&border_radius=20&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" height="200" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudorest&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=20" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudorest&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=20&langs_count=8&cache_seconds=7200" alt="Top Languages" height="200" />
   
 </div>
 
@@ -115,33 +119,31 @@
 <div align="center">
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudorest&theme=radical&background=0d1117&stroke=ff69b4&ring=ff1493&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff&border=ff69b4&border_radius=20" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sudorest&theme=radical&background=0d1117&stroke=ff69b4&ring=ff1493&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff&border=ff69b4&border_radius=20" alt="GitHub Streak" />
   
 </div>
 
 <!-- Activity Graph -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git" />
-  Contribution Graph
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git" />
+  <img src="https://img.shields.io/badge/Contribution%20Graph-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudorest&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff&area_color=ff69b4&area=true&hide_border=false&border_color=ff69b4" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudorest&theme=react-dark&custom_title=My%20Contribution%20Graph&hide_border=true&area=true&cache_seconds=7200" width="95%" />
 </div>
 
 <!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Trophies-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudorest&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7&title_color=ff69b4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudorest&theme=dracula&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 <!-- Connect Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  Let's Connect
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <img src="https://img.shields.io/badge/Let's%20Connect-ff69b4?style=for-the-badge&logo=link&logoColor=white" />
 </h2>
 
 <div align="center">
@@ -167,10 +169,14 @@
 <br>
 
 <!-- Spotify Now Playing -->
-<h2 align="center">🎵 Now Playing 🎵</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</h2>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff69b4&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bjuvhb6sctv62xutjx4fwk3a3i&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
 </div>
 
 <br>
@@ -185,22 +191,40 @@
 <!-- Footer -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,25,26,27,28,29,30&section=footer&text=Thanks%20for%20visiting!%20💕&fontColor=fff&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,25,26,27,28,29,30&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=30&animation=twinkling" />
   
   <p>
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   </p>
   
   <p>
-    <b>Made with 💖 and lots of ☕</b>
+    <img src="https://img.shields.io/badge/Made%20with%20love-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
+    <img src="https://img.shields.io/badge/and%20lots%20of%20coffee-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </p>
   
   <img src="https://img.shields.io/badge/Status-Coding%20in%20Progress-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   
 </div>
 
+<!-- Currently Vibing To -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Currently%20Vibing%20To-ff69b4?style=for-the-badge&logo=apple-music&logoColor=white" />
+</h2>
+
+<div align="center">
+  
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31bjuvhb6sctv62xutjx4fwk3a3i)
+  [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com)
+  [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+  
+  <p><i><img src="https://img.shields.io/badge/Lo--fi%20beats%20•%20Pop%20•%20K--Pop%20•%20Indie-ff69b4?style=flat-square&logo=music&logoColor=white" /></i></p>
+  
+</div>
+
+<br>
+
 <!--
-💖 Thank you for visiting my profile!
-✨ Feel free to reach out and connect!
-🌸 Have a wonderful day!
+Thank you for visiting my profile!
+Feel free to reach out and connect!
+Have a wonderful day!
 -->
