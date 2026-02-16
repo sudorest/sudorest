@@ -99,30 +99,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=e0e0e0" />
 </p>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</h2>
-
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudorest&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4&border_radius=20&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" height="200" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudorest&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=20&langs_count=8&cache_seconds=7200" alt="Top Languages" height="200" />
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=sudorest&theme=radical&background=0d1117&stroke=ff69b4&ring=ff1493&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff&border=ff69b4&border_radius=20" alt="GitHub Streak" />
-  
-</div>
-
 <!-- Activity Graph -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/Contribution%20Graph-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
